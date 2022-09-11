@@ -3,4 +3,5 @@
 - Computer engineering student from Spain
 <hr/>
 
-![giphy (1)](https://user-images.githubusercontent.com/59847094/187551507-18b1e411-25ec-48ce-81f4-daf9ff38be0e.gif)
+![giphy](https://user-images.githubusercontent.com/59847094/189539128-aa7a4d76-53ca-462b-9936-19daaa26edf8.gif)
+
